@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cc0f541-99bc-4ac3-bae5-8a0b9beb5189" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bmi_calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi.py" afterDir="false" />
-    </list>
+    <list default="true" id="1cc0f541-99bc-4ac3-bae5-8a0b9beb5189" name="Changes" comment="A simple bmi calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,12 +60,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709069076316</updated>
-      <workItem from="1709069081070" duration="384000" />
+      <workItem from="1709069081070" duration="730000" />
     </task>
+    <task id="LOCAL-00001" summary="A simple bmi calculator">
+      <option name="closed" value="true" />
+      <created>1709069637294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709069637294</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A simple bmi calculator">
+      <option name="closed" value="true" />
+      <created>1709069834588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709069834588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A simple bmi calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="A simple bmi calculator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bmi_calculator$bmi.coverage" NAME="bmi Coverage Results" MODIFIED="1709069574463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
